@@ -1,0 +1,2 @@
+# WEb-Gis-Desa-Panji-
+Web-Gis merupakan suatu sistem informasi geografi berbasis web yang sudah terkoneksi dengan beberapa komponen yang terkait. Web-GIS sendiri merupakan gabungan antara design grafis pemetaan, peta digital dengan analisis geografis, pemrograman komputer, dan sebuah database yang saling terhubung menjadi satu bagian web desain dan web pemetaan sehingga menjadi sebuah web yang berisikan informasi geografi berupa peta. Web-Gis Desa Panji dibangun untuk memberikan informasi jalur sepeda dan potensi view yang ada di Desa Panji.
